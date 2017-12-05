@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view>
+  <text>
+    {{proxyName}}adsfa
+  </text>
+</view>
